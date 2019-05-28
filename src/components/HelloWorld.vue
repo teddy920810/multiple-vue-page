@@ -4,6 +4,11 @@
     <h2>Essential Links</h2>
     <ul>
       <li><a href="test.html">测试多页面</a></li>
+      <li><a href="about.html">关于我们</a></li>
+      <li><a href="contact.html">联系我们</a></li>
+      <li><a href="product.html">产品列表</a></li>
+      <li><a href="customized.html">客户定制</a></li>
+      <li><a href="test.html">测试多页面</a></li>
       <li>
         <a
           href="https://vuejs.org"
